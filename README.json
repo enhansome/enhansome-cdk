@@ -349,7 +349,7 @@
             "last_commit": "2026-08-10T22:27:40Z",
             "owner": "cdklabs",
             "repo": "aws-delivlib",
-            "stars": 377
+            "stars": 376
           }
         }
       ],
@@ -383,7 +383,7 @@
             "last_commit": "2026-08-10T22:24:56Z",
             "owner": "cdklabs",
             "repo": "cdk-watchful",
-            "stars": 542
+            "stars": 541
           }
         },
         {
@@ -1056,10 +1056,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T10:03:02Z",
+            "last_commit": "2026-08-13T16:07:45Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
-            "stars": 4846
+            "stars": 4847
           }
         },
         {
@@ -1100,7 +1100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:01.719Z",
+    "last_updated": "2026-08-13T19:47:50.721Z",
     "original_repository": "kalaiser/awesome-cdk",
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
     "enhanced_repository": "enhansome/enhansome-cdk",
