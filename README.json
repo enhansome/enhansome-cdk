@@ -555,7 +555,7 @@
             "last_commit": "2026-07-12T20:03:49Z",
             "owner": "anomalyco",
             "repo": "sst",
-            "stars": 26235
+            "stars": 26238
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-07-29T19:40:53Z",
             "owner": "aws-samples",
             "repo": "aws-cdk-examples",
-            "stars": 5614
+            "stars": 5615
           }
         },
         {
@@ -1045,7 +1045,7 @@
             "last_commit": "2025-12-10T14:12:01Z",
             "owner": "hashicorp",
             "repo": "terraform-cdk",
-            "stars": 5075
+            "stars": 5074
           }
         },
         {
@@ -1056,7 +1056,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T09:36:49Z",
+            "last_commit": "2026-08-16T09:36:56Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4849
@@ -1100,7 +1100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:10:49.037Z",
+    "last_updated": "2026-08-16T19:10:01.754Z",
     "original_repository": "kalaiser/awesome-cdk",
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
     "enhanced_repository": "enhansome/enhansome-cdk",
