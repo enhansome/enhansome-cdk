@@ -366,7 +366,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T00:23:12Z",
+            "last_commit": "2026-08-17T00:16:08Z",
             "owner": "cdklabs",
             "repo": "cdk-monitoring-constructs",
             "stars": 552
@@ -555,7 +555,7 @@
             "last_commit": "2026-07-12T20:03:49Z",
             "owner": "anomalyco",
             "repo": "sst",
-            "stars": 26238
+            "stars": 26239
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-07-29T19:40:53Z",
             "owner": "aws-samples",
             "repo": "aws-cdk-examples",
-            "stars": 5615
+            "stars": 5616
           }
         },
         {
@@ -1056,7 +1056,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T09:36:56Z",
+            "last_commit": "2026-08-17T16:34:22Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4849
@@ -1070,7 +1070,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:31:33Z",
+            "last_commit": "2026-08-17T11:59:24Z",
             "owner": "aws",
             "repo": "jsii",
             "stars": 2866
@@ -1100,7 +1100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:10:01.754Z",
+    "last_updated": "2026-08-17T19:17:48.494Z",
     "original_repository": "kalaiser/awesome-cdk",
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
     "enhanced_repository": "enhansome/enhansome-cdk",
