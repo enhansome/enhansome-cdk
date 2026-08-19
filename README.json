@@ -1129,7 +1129,7 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:17:44Z",
+            "last_commit": "2026-08-19T17:24:49Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4851
@@ -1144,7 +1144,7 @@
             "archived": false,
             "id": 105802846,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:33:08Z",
+            "last_commit": "2026-08-19T14:22:30Z",
             "owner": "aws",
             "repo": "jsii",
             "stars": 2866
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:19:42.040Z",
+    "last_updated": "2026-08-19T19:13:59.530Z",
     "original_repository": "kalaiser/awesome-cdk",
     "original_repository_id": 166025620,
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
