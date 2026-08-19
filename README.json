@@ -2,547 +2,592 @@
   "items": [
     {
       "description": "This section includes code libraries in various programming languages which vend constructs that can be used in CDK apps.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-chalice",
+              "description": "AWS CDK construct for AWS Chalice (Python Serverless Microframework for AWS).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226480756,
+                "language": "Python",
+                "last_commit": "2023-12-23T23:20:41Z",
+                "owner": "alexpulver",
+                "repo": "cdk-chalice",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auto-cdk",
+              "description": "Automatically generate api-gateway/lambda integrations with the filesystem (beta).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268932511,
+                "language": "TypeScript",
+                "last_commit": "2023-01-07T18:46:49Z",
+                "owner": "wulfmann",
+                "repo": "auto-cdk",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crow-api",
+              "description": "Create a serverless API with routes based on your file structure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373824412,
+                "language": "TypeScript",
+                "last_commit": "2022-03-29T17:46:46Z",
+                "owner": "thomasstep",
+                "repo": "crow-api",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "APIs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-dynamo-table-viewer",
+              "description": "Exposes the contents of an Amazon DynamoDB table through a public HTML page.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153631465,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T23:00:47Z",
+                "owner": "cdklabs",
+                "repo": "cdk-dynamo-table-viewer",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-cdk-dynamodb-seeder",
+              "description": "A simple CDK seeder for DynamoDB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241672415,
+                "language": "TypeScript",
+                "last_commit": "2023-01-06T02:35:15Z",
+                "owner": "elegantdevelopment",
+                "repo": "aws-cdk-dynamodb-seeder",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-postgresql",
+              "description": "AWS CDK Constructs for PostgreSQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272805860,
+                "language": "TypeScript",
+                "last_commit": "2026-02-16T17:55:53Z",
+                "owner": "botpress",
+                "repo": "cdk-postgresql",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-sqlserver-seeder",
+              "description": "CDK construct that executes custom SQL scripts against SQL Server database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277320870,
+                "language": "PowerShell",
+                "last_commit": "2023-01-06T11:53:14Z",
+                "owner": "kolomied",
+                "repo": "cdk-sqlserver-seeder",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Databases"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-static-website",
+              "description": "CDK component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164016558,
+                "language": "TypeScript",
+                "last_commit": "2024-09-15T19:37:56Z",
+                "owner": "cloudcomponents",
+                "repo": "cdk-constructs",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ness",
+              "description": "CDK powered CLI tool for deploying static sites to your AWS account.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287727295,
+                "language": "TypeScript",
+                "last_commit": "2022-10-14T19:09:19Z",
+                "owner": "nessjs",
+                "repo": "ness",
+                "stars": 633
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static Websites"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-cloudfront-authorization",
+              "description": "CloudFront with Cognito authentication using Lambda@Edge.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164016558,
+                "language": "TypeScript",
+                "last_commit": "2024-09-15T19:37:56Z",
+                "owner": "cloudcomponents",
+                "repo": "cdk-constructs",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-iam-floyd",
+              "description": "IAM policy statement generator with fluent interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268601916,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T01:40:19Z",
+                "owner": "udondan",
+                "repo": "iam-floyd",
+                "stars": 573
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-firewall-factory",
+              "description": "Deploy, update, and stage your WAFs while managing them centrally via FMS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 424974259,
+                "language": "TypeScript",
+                "last_commit": "2025-11-17T19:53:06Z",
+                "owner": "globaldatanet",
+                "repo": "aws-firewall-factory",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "c3",
+              "description": "Enables compliancy with privacy and security best practices.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 261698996,
+                "language": "TypeScript",
+                "last_commit": "2025-09-24T10:21:17Z",
+                "owner": "SSHcom",
+                "repo": "c3",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-passwordless",
+              "description": "Construct for having passwordless authentication using userpool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203192918,
+                "language": "JavaScript",
+                "last_commit": "2023-01-04T08:16:21Z",
+                "owner": "farminf",
+                "repo": "aws-cdk-passwordless",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-iam-generator",
+              "description": "Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232225003,
+                "language": "TypeScript",
+                "last_commit": "2022-03-26T00:28:50Z",
+                "owner": "srihariph",
+                "repo": "cdk-iam-generator",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "k9-cdk",
+              "description": "Construct to generate secure S3 bucket policies easily.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300446590,
+                "language": "TypeScript",
+                "last_commit": "2026-04-15T18:31:52Z",
+                "owner": "k9securityio",
+                "repo": "k9-cdk",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-time-bomb",
+              "description": "CDK Construct that implodes your AWS CDK Stack after a set amount of time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262691843,
+                "language": "TypeScript",
+                "last_commit": "2026-03-07T03:49:12Z",
+                "owner": "jmb12686",
+                "repo": "cdk-time-bomb",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-instanceStopRule",
+              "description": "CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237792916,
+                "language": "TypeScript",
+                "last_commit": "2023-01-05T06:18:59Z",
+                "owner": "tecracer",
+                "repo": "cdk-constructs",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ops"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-sqs-monitored",
+              "description": "SQS Construct with dead letter queue and configured alarms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253610232,
+                "language": "TypeScript",
+                "last_commit": "2026-04-09T19:07:29Z",
+                "owner": "kamilbiela",
+                "repo": "cdk-sqs-monitored",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-ses-template-mailer",
+              "description": "Constructs to create AWS SES email templates + microservice to send templated emails with AWS SES.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204962520,
+                "language": "TypeScript",
+                "last_commit": "2023-01-04T08:27:32Z",
+                "owner": "mkrn",
+                "repo": "cdk-ses-template-mailer",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Queue"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-blue-green-container-deployment",
+              "description": "Blue/Green container deployment with CodeDeploy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164016558,
+                "language": "TypeScript",
+                "last_commit": "2024-09-15T19:37:56Z",
+                "owner": "cloudcomponents",
+                "repo": "cdk-constructs",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-delivlib",
+              "description": "Synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153164192,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T23:07:22Z",
+                "owner": "cdklabs",
+                "repo": "aws-delivlib",
+                "stars": 376
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CI/CD"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-monitoring-constructs",
+              "description": "Use high-level APIs to create monitoring for your AWS apps. Generates dashboards automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 462043866,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T00:16:08Z",
+                "owner": "cdklabs",
+                "repo": "cdk-monitoring-constructs",
+                "stars": 552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-watchful",
+              "description": "Automatic dashboards and alarms for CDK apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194738138,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T23:04:34Z",
+                "owner": "cdklabs",
+                "repo": "cdk-watchful",
+                "stars": 541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-cdk-billing-alarm",
+              "description": "Construct that sets up email alerts for exceeding an amount on your AWS bill.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 321767297,
+                "language": "TypeScript",
+                "last_commit": "2023-03-05T17:53:20Z",
+                "owner": "alvyn279",
+                "repo": "aws-cdk-billing-alarm",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-pull-request-check",
+              "description": "CDK component that automatically check pull requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164016558,
+                "language": "TypeScript",
+                "last_commit": "2024-09-15T19:37:56Z",
+                "owner": "cloudcomponents",
+                "repo": "cdk-constructs",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-github-webhook",
+              "description": "CDK component that provisions GitHub webhooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164016558,
+                "language": "TypeScript",
+                "last_commit": "2024-09-15T19:37:56Z",
+                "owner": "cloudcomponents",
+                "repo": "cdk-constructs",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-codepipeline-slack",
+              "description": "CDK component that provisions a #slack approval workflow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164016558,
+                "language": "TypeScript",
+                "last_commit": "2024-09-15T19:37:56Z",
+                "owner": "cloudcomponents",
+                "repo": "cdk-constructs",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-codecommit-backup",
+              "description": "Backup CodeCommit repositories to S3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164016558,
+                "language": "TypeScript",
+                "last_commit": "2024-09-15T19:37:56Z",
+                "owner": "cloudcomponents",
+                "repo": "cdk-constructs",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-developer-tools-notifications",
+              "description": "Slack / Microsoft Teams / Email notifications for developer tools: CodeCommit, CodeBuild, CodeDeploy, CodePipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164016558,
+                "language": "TypeScript",
+                "last_commit": "2024-09-15T19:37:56Z",
+                "owner": "cloudcomponents",
+                "repo": "cdk-constructs",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-pdf-textract-pipeline",
+              "description": "ETL pipeline for crawling PDFs from the Web using Puppeteer and transforming their contents into structured data using AWS Textract and storing the results in DynamoDB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242643811,
+                "language": "TypeScript",
+                "last_commit": "2024-06-05T13:57:47Z",
+                "owner": "aeksco",
+                "repo": "aws-pdf-textract-pipeline",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alexa Deployment Pipeline",
+              "description": "Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169919643,
+                "language": "TypeScript",
+                "last_commit": "2023-01-04T21:48:51Z",
+                "owner": "taimos",
+                "repo": "cdk-constructs",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workflows"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-organizations",
+              "description": "CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446507878,
+                "language": "TypeScript",
+                "last_commit": "2026-02-19T02:17:01Z",
+                "owner": "pepperize",
+                "repo": "cdk-organizations",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-bootstrap-kit",
+              "description": "Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 299928938,
+                "language": "TypeScript",
+                "last_commit": "2023-04-24T06:06:36Z",
+                "owner": "awslabs",
+                "repo": "aws-bootstrap-kit",
+                "stars": 104
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-accounts setup"
+        }
+      ],
       "title": "Construct Libraries"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-chalice",
-          "description": "AWS CDK construct for AWS Chalice (Python Serverless Microframework for AWS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-23T23:20:41Z",
-            "owner": "alexpulver",
-            "repo": "cdk-chalice",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "auto-cdk",
-          "description": "Automatically generate api-gateway/lambda integrations with the filesystem (beta).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-07T18:46:49Z",
-            "owner": "wulfmann",
-            "repo": "auto-cdk",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crow-api",
-          "description": "Create a serverless API with routes based on your file structure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-29T17:46:46Z",
-            "owner": "thomasstep",
-            "repo": "crow-api",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "APIs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-dynamo-table-viewer",
-          "description": "Exposes the contents of an Amazon DynamoDB table through a public HTML page.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T23:00:47Z",
-            "owner": "cdklabs",
-            "repo": "cdk-dynamo-table-viewer",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-cdk-dynamodb-seeder",
-          "description": "A simple CDK seeder for DynamoDB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-06T02:35:15Z",
-            "owner": "elegantdevelopment",
-            "repo": "aws-cdk-dynamodb-seeder",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-postgresql",
-          "description": "AWS CDK Constructs for PostgreSQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-16T17:55:53Z",
-            "owner": "botpress",
-            "repo": "cdk-postgresql",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-sqlserver-seeder",
-          "description": "CDK construct that executes custom SQL scripts against SQL Server database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2023-01-06T11:53:14Z",
-            "owner": "kolomied",
-            "repo": "cdk-sqlserver-seeder",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Databases"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-static-website",
-          "description": "CDK component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-15T19:37:56Z",
-            "owner": "cloudcomponents",
-            "repo": "cdk-constructs",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ness",
-          "description": "CDK powered CLI tool for deploying static sites to your AWS account.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-10-14T19:09:19Z",
-            "owner": "nessjs",
-            "repo": "ness",
-            "stars": 633
-          }
-        }
-      ],
-      "title": "Static Websites"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-cloudfront-authorization",
-          "description": "CloudFront with Cognito authentication using Lambda@Edge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-15T19:37:56Z",
-            "owner": "cloudcomponents",
-            "repo": "cdk-constructs",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-iam-floyd",
-          "description": "IAM policy statement generator with fluent interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T02:39:06Z",
-            "owner": "udondan",
-            "repo": "iam-floyd",
-            "stars": 573
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-firewall-factory",
-          "description": "Deploy, update, and stage your WAFs while managing them centrally via FMS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-17T19:53:06Z",
-            "owner": "globaldatanet",
-            "repo": "aws-firewall-factory",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "c3",
-          "description": "Enables compliancy with privacy and security best practices.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-09-24T10:21:17Z",
-            "owner": "SSHcom",
-            "repo": "c3",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-passwordless",
-          "description": "Construct for having passwordless authentication using userpool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-04T08:16:21Z",
-            "owner": "farminf",
-            "repo": "aws-cdk-passwordless",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-iam-generator",
-          "description": "Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-26T00:28:50Z",
-            "owner": "srihariph",
-            "repo": "cdk-iam-generator",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "k9-cdk",
-          "description": "Construct to generate secure S3 bucket policies easily.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-15T18:31:52Z",
-            "owner": "k9securityio",
-            "repo": "k9-cdk",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-time-bomb",
-          "description": "CDK Construct that implodes your AWS CDK Stack after a set amount of time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-07T03:49:12Z",
-            "owner": "jmb12686",
-            "repo": "cdk-time-bomb",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-instanceStopRule",
-          "description": "CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-05T06:18:59Z",
-            "owner": "tecracer",
-            "repo": "cdk-constructs",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Ops"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-sqs-monitored",
-          "description": "SQS Construct with dead letter queue and configured alarms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-09T19:07:29Z",
-            "owner": "kamilbiela",
-            "repo": "cdk-sqs-monitored",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-ses-template-mailer",
-          "description": "Constructs to create AWS SES email templates + microservice to send templated emails with AWS SES.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-04T08:27:32Z",
-            "owner": "mkrn",
-            "repo": "cdk-ses-template-mailer",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Queue"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-blue-green-container-deployment",
-          "description": "Blue/Green container deployment with CodeDeploy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-15T19:37:56Z",
-            "owner": "cloudcomponents",
-            "repo": "cdk-constructs",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-delivlib",
-          "description": "Synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T23:07:22Z",
-            "owner": "cdklabs",
-            "repo": "aws-delivlib",
-            "stars": 376
-          }
-        }
-      ],
-      "title": "CI/CD"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-monitoring-constructs",
-          "description": "Use high-level APIs to create monitoring for your AWS apps. Generates dashboards automatically.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T00:16:08Z",
-            "owner": "cdklabs",
-            "repo": "cdk-monitoring-constructs",
-            "stars": 552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-watchful",
-          "description": "Automatic dashboards and alarms for CDK apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T23:04:34Z",
-            "owner": "cdklabs",
-            "repo": "cdk-watchful",
-            "stars": 541
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-cdk-billing-alarm",
-          "description": "Construct that sets up email alerts for exceeding an amount on your AWS bill.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-05T17:53:20Z",
-            "owner": "alvyn279",
-            "repo": "aws-cdk-billing-alarm",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Monitoring"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-pull-request-check",
-          "description": "CDK component that automatically check pull requests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-15T19:37:56Z",
-            "owner": "cloudcomponents",
-            "repo": "cdk-constructs",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-github-webhook",
-          "description": "CDK component that provisions GitHub webhooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-15T19:37:56Z",
-            "owner": "cloudcomponents",
-            "repo": "cdk-constructs",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-codepipeline-slack",
-          "description": "CDK component that provisions a #slack approval workflow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-15T19:37:56Z",
-            "owner": "cloudcomponents",
-            "repo": "cdk-constructs",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-codecommit-backup",
-          "description": "Backup CodeCommit repositories to S3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-15T19:37:56Z",
-            "owner": "cloudcomponents",
-            "repo": "cdk-constructs",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdk-developer-tools-notifications",
-          "description": "Slack / Microsoft Teams / Email notifications for developer tools: CodeCommit, CodeBuild, CodeDeploy, CodePipeline.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-15T19:37:56Z",
-            "owner": "cloudcomponents",
-            "repo": "cdk-constructs",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-pdf-textract-pipeline",
-          "description": "ETL pipeline for crawling PDFs from the Web using Puppeteer and transforming their contents into structured data using AWS Textract and storing the results in DynamoDB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-05T13:57:47Z",
-            "owner": "aeksco",
-            "repo": "aws-pdf-textract-pipeline",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alexa Deployment Pipeline",
-          "description": "Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-04T21:48:51Z",
-            "owner": "taimos",
-            "repo": "cdk-constructs",
-            "stars": 36
-          }
-        }
-      ],
-      "title": "Workflows"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cdk-organizations",
-          "description": "CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-19T02:17:01Z",
-            "owner": "pepperize",
-            "repo": "cdk-organizations",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-bootstrap-kit",
-          "description": "Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-04-24T06:06:36Z",
-            "owner": "awslabs",
-            "repo": "aws-bootstrap-kit",
-            "stars": 104
-          }
-        }
-      ],
-      "title": "Multi-accounts setup"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -551,6 +596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285092252,
             "language": "TypeScript",
             "last_commit": "2026-07-12T20:03:49Z",
             "owner": "anomalyco",
@@ -565,6 +611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181975248,
             "language": "TypeScript",
             "last_commit": "2021-12-09T20:28:33Z",
             "owner": "sam-goodwin",
@@ -579,6 +626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306434736,
             "language": "Python",
             "last_commit": "2023-02-08T04:33:47Z",
             "owner": "vincentclaes",
@@ -593,6 +641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203997115,
             "language": "TypeScript",
             "last_commit": "2023-01-07T04:35:38Z",
             "owner": "fogfish",
@@ -607,6 +656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287946997,
             "language": "TypeScript",
             "last_commit": "2020-12-15T21:41:20Z",
             "owner": "kolomied",
@@ -621,6 +671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362385099,
             "language": "Python",
             "last_commit": "2024-02-05T17:53:26Z",
             "owner": "knowsuchagency",
@@ -632,7 +683,7 @@
       "title": "High-Level Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -641,6 +692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211361057,
             "language": "JavaScript",
             "last_commit": "2025-02-20T02:56:34Z",
             "owner": "vbudilov",
@@ -655,6 +707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270042654,
             "language": "TypeScript",
             "last_commit": "2022-06-22T20:31:57Z",
             "owner": "cdk-dev",
@@ -669,6 +722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235806958,
             "language": "JavaScript",
             "last_commit": "2023-01-05T05:34:40Z",
             "owner": "lufzle",
@@ -683,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 270672598,
             "language": "TypeScript",
             "last_commit": "2020-12-22T19:54:07Z",
             "owner": "pahud",
@@ -694,7 +749,7 @@
       "title": "Scaffolding"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -703,6 +758,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306990675,
             "language": "TypeScript",
             "last_commit": "2021-07-19T10:57:57Z",
             "owner": "floydspace",
@@ -717,6 +773,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 281355908,
             "language": "TypeScript",
             "last_commit": "2021-10-05T14:10:04Z",
             "owner": "vvo",
@@ -731,6 +788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269126365,
             "language": "Java",
             "last_commit": "2023-01-27T07:01:09Z",
             "owner": "LinguaRobot",
@@ -745,6 +803,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 201752886,
             "language": null,
             "last_commit": "2021-08-16T11:38:20Z",
             "owner": "justincase-jp",
@@ -756,7 +815,7 @@
       "title": "Language Support"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -765,24 +824,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 228866360,
             "language": "Shell",
             "last_commit": "2023-02-19T08:03:22Z",
             "owner": "udondan",
             "repo": "jsii-publish",
             "stars": 18
           }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub Action",
-          "description": "GitHub Action for AWS CDK.",
-          "children": []
         }
       ],
       "title": "Library Publishing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -791,6 +845,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168772474,
             "language": "TypeScript",
             "last_commit": "2026-07-29T19:40:53Z",
             "owner": "aws-samples",
@@ -805,6 +860,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233364188,
             "language": "TypeScript",
             "last_commit": "2024-01-30T06:00:03Z",
             "owner": "cdk-patterns",
@@ -819,6 +875,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201140589,
             "language": null,
             "last_commit": "2021-07-04T07:24:27Z",
             "owner": "kevinslin",
@@ -833,6 +890,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 176996794,
             "language": "JavaScript",
             "last_commit": "2023-07-13T07:46:28Z",
             "owner": "aws-samples",
@@ -847,6 +905,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237771074,
             "language": "TypeScript",
             "last_commit": "2020-06-15T20:43:31Z",
             "owner": "sbstjn",
@@ -861,6 +920,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188689911,
             "language": "TypeScript",
             "last_commit": "2023-10-03T13:14:56Z",
             "owner": "tecracer",
@@ -875,6 +935,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288231280,
             "language": "JavaScript",
             "last_commit": "2020-10-08T23:03:59Z",
             "owner": "vvo",
@@ -889,6 +950,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186411887,
             "language": "TypeScript",
             "last_commit": "2022-12-09T02:32:34Z",
             "owner": "rix0rrr",
@@ -903,6 +965,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235557317,
             "language": "TypeScript",
             "last_commit": "2020-06-07T18:19:24Z",
             "owner": "sbstjn",
@@ -917,6 +980,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334408330,
             "language": "TypeScript",
             "last_commit": "2023-03-06T03:58:29Z",
             "owner": "seeebiii",
@@ -931,6 +995,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 105390097,
             "language": "Rust",
             "last_commit": "2023-05-01T13:28:37Z",
             "owner": "mlafeldt",
@@ -945,6 +1010,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236436088,
             "language": "Python",
             "last_commit": "2021-09-25T08:19:34Z",
             "owner": "shaftoe",
@@ -959,6 +1025,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 236357435,
             "language": "Python",
             "last_commit": "2020-02-03T15:23:51Z",
             "owner": "shaftoe",
@@ -973,6 +1040,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235482168,
             "language": "Python",
             "last_commit": "2023-02-15T03:24:31Z",
             "owner": "denmat",
@@ -984,7 +1052,7 @@
       "title": "Training Materials and Sample Code"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -993,6 +1061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199725521,
             "language": "C#",
             "last_commit": "2022-12-09T21:36:56Z",
             "owner": "jakejscott",
@@ -1007,6 +1076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223008614,
             "language": "TypeScript",
             "last_commit": "2023-01-05T01:38:19Z",
             "owner": "HatchSoftware",
@@ -1021,6 +1091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196348777,
             "language": "Python",
             "last_commit": "2019-07-12T04:38:58Z",
             "owner": "ClouderDex",
@@ -1032,7 +1103,7 @@
       "title": "Blog Posts & Talks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1041,6 +1112,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 232603801,
             "language": "TypeScript",
             "last_commit": "2025-12-10T14:12:01Z",
             "owner": "hashicorp",
@@ -1055,11 +1127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T15:56:37Z",
+            "last_commit": "2026-08-19T11:17:44Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
-            "stars": 4850
+            "stars": 4851
           }
         },
         {
@@ -1069,6 +1142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105802846,
             "language": "TypeScript",
             "last_commit": "2026-08-18T11:33:08Z",
             "owner": "aws",
@@ -1083,6 +1157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504493742,
             "language": "TypeScript",
             "last_commit": "2022-06-30T17:17:08Z",
             "owner": "hupe1980",
@@ -1092,16 +1167,12 @@
         }
       ],
       "title": "Related Projects"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:17:53.626Z",
+    "last_updated": "2026-08-19T12:19:42.040Z",
     "original_repository": "kalaiser/awesome-cdk",
+    "original_repository_id": 166025620,
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
     "enhanced_repository": "enhansome/enhansome-cdk",
     "enhanced_repository_description": null,
