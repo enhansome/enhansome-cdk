@@ -1,6 +1,6 @@
 # Awesome CDK with stars
 
-> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) ⭐ 12,876 | 🐛 2,850 | 🌐 TypeScript | 📅 2026-08-24 (AWS CDK) open-source projects, guides, blogs and other resources.
+> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) ⭐ 12,875 | 🐛 2,854 | 🌐 TypeScript | 📅 2026-08-24 (AWS CDK) open-source projects, guides, blogs and other resources.
 
 The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework for defining cloud infrastructure in code.
 
@@ -99,7 +99,7 @@ This section includes code libraries in various programming languages which vend
 
 ## High-Level Frameworks
 
-* [SST](https://github.com/serverless-stack/serverless-stack) ⭐ 26,254 | 🐛 305 | 🌐 TypeScript | 📅 2026-07-12 - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
+* [SST](https://github.com/serverless-stack/serverless-stack) ⭐ 26,256 | 🐛 305 | 🌐 TypeScript | 📅 2026-07-12 - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
 * [punchcard](https://github.com/punchcard/punchcard) ⭐ 515 | 🐛 41 | 🌐 TypeScript | 📅 2021-12-09 - TypeScript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one Node.js application.
 * [Datajob](https://github.com/vincentclaes/datajob) ⭐ 111 | 🐛 19 | 🌐 Python | 📅 2023-02-08 - Build and deploy a serverless data pipeline or machine learning pipeline on AWS with no effort.
 * [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) ⭐ 95 | 🐛 10 | 🌐 TypeScript | 📅 2023-01-07 - A toolkit to develop purely functional and high-order cloud components with AWS CDK.
@@ -115,7 +115,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Language Support
 
-* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 3 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,016 | 🐛 605 | 🌐 Go | 📅 2026-08-09.
+* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 3 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,017 | 🐛 605 | 🌐 Go | 📅 2026-08-09.
 * [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) ⚠️ Archived - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
 * [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) ⭐ 14 | 🐛 13 | 🌐 Java | 📅 2023-01-27 - A plugin to define and deploy your AWS CDK applications using Java and Maven.
 * [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) ⚠️ Archived - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.

@@ -601,7 +601,7 @@
             "last_commit": "2026-07-12T20:03:49Z",
             "owner": "anomalyco",
             "repo": "sst",
-            "stars": 26254
+            "stars": 26256
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T09:48:45Z",
+            "last_commit": "2026-08-24T18:19:01Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4851
@@ -1144,7 +1144,7 @@
             "archived": false,
             "id": 105802846,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:33:53Z",
+            "last_commit": "2026-08-24T18:52:00Z",
             "owner": "aws",
             "repo": "jsii",
             "stars": 2866
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:50.489Z",
+    "last_updated": "2026-08-24T19:18:51.285Z",
     "original_repository": "kalaiser/awesome-cdk",
     "original_repository_id": 166025620,
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
