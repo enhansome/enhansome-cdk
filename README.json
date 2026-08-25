@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 153631465,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T23:00:47Z",
+                "last_commit": "2026-08-24T22:15:28Z",
                 "owner": "cdklabs",
                 "repo": "cdk-dynamo-table-viewer",
                 "stars": 125
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 268601916,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T01:40:01Z",
+                "last_commit": "2026-08-25T02:41:47Z",
                 "owner": "udondan",
                 "repo": "iam-floyd",
                 "stars": 572
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 153164192,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T23:07:22Z",
+                "last_commit": "2026-08-24T22:17:01Z",
                 "owner": "cdklabs",
                 "repo": "aws-delivlib",
                 "stars": 376
@@ -408,7 +408,7 @@
                 "archived": false,
                 "id": 194738138,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T23:04:34Z",
+                "last_commit": "2026-08-24T22:13:29Z",
                 "owner": "cdklabs",
                 "repo": "cdk-watchful",
                 "stars": 541
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:18:51.285Z",
+    "last_updated": "2026-08-25T05:56:59.857Z",
     "original_repository": "kalaiser/awesome-cdk",
     "original_repository_id": 166025620,
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
