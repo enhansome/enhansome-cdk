@@ -1129,7 +1129,7 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T18:19:01Z",
+            "last_commit": "2026-08-25T18:19:46Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4851
@@ -1170,7 +1170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:59.857Z",
+    "last_updated": "2026-08-25T19:19:32.303Z",
     "original_repository": "kalaiser/awesome-cdk",
     "original_repository_id": 166025620,
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
