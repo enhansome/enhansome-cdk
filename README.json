@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 268601916,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T02:43:22Z",
+                "last_commit": "2026-08-27T02:43:54Z",
                 "owner": "udondan",
                 "repo": "iam-floyd",
                 "stars": 572
@@ -601,7 +601,7 @@
             "last_commit": "2026-07-12T20:03:49Z",
             "owner": "anomalyco",
             "repo": "sst",
-            "stars": 26260
+            "stars": 26262
           }
         },
         {
@@ -1144,7 +1144,7 @@
             "archived": false,
             "id": 105802846,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:34:29Z",
+            "last_commit": "2026-08-27T11:05:31Z",
             "owner": "aws",
             "repo": "jsii",
             "stars": 2866
@@ -1170,9 +1170,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:18:02.991Z",
-    "original_repository": "kalaiser/awesome-cdk",
-    "original_repository_id": 166025620,
+    "last_updated": "2026-08-27T11:28:17.664Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 166025620,
+      "language": null,
+      "last_commit": "2024-03-12T09:19:49Z",
+      "owner": "kalaiser",
+      "repo": "awesome-cdk",
+      "stars": 2126
+    },
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
     "enhanced_repository": "enhansome/enhansome-cdk",
     "enhanced_repository_description": null,
