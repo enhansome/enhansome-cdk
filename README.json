@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS CDK construct for AWS Chalice",
+                "homepage": "https://cdk-chalice.softwhat.com",
                 "id": 226480756,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-23T23:20:41Z",
+                "open_issues": 0,
                 "owner": "alexpulver",
                 "repo": "cdk-chalice",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "aws-cdk",
+                  "aws-chalice",
+                  "cdk-chalice"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -28,12 +37,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Effortless APIs with CDK",
+                "homepage": null,
                 "id": 268932511,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-07T18:46:49Z",
+                "open_issues": 42,
                 "owner": "wulfmann",
                 "repo": "auto-cdk",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "api",
+                  "api-gateway",
+                  "aws",
+                  "aws-lambda",
+                  "cdk",
+                  "generator",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -44,12 +66,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crow API is an AWS CDK Construct that makes creating an API fast and easy by basing the structure on the app's file structure.",
+                "homepage": "https://www.npmjs.com/package/crow-api",
                 "id": 373824412,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-29T17:46:46Z",
+                "open_issues": 0,
                 "owner": "thomasstep",
                 "repo": "crow-api",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "aws",
+                  "aws-apigateway",
+                  "aws-cdk",
+                  "aws-lambda",
+                  "cdk"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -67,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CDK construct which exposes an endpoint with the contents of a DynamoDB table",
+                "homepage": null,
                 "id": 153631465,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T22:15:28Z",
+                "open_issues": 5,
                 "owner": "cdklabs",
                 "repo": "cdk-dynamo-table-viewer",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -83,12 +121,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple CDK seeder for DynamoDB",
+                "homepage": null,
                 "id": 241672415,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-06T02:35:15Z",
+                "open_issues": 18,
                 "owner": "elegantdevelopment",
                 "repo": "aws-cdk-dynamodb-seeder",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "amazon-dynamodb",
+                  "aws",
+                  "aws-cdk",
+                  "cdk-seeder",
+                  "dynamodb",
+                  "iac",
+                  "seeder"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -99,12 +150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS CDK Constructs for PostgreSQL",
+                "homepage": null,
                 "id": 272805860,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-28T20:53:57Z",
+                "open_issues": 8,
                 "owner": "botpress",
                 "repo": "cdk-postgresql",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -115,12 +171,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple CDK seeder for SQL Server RDS databases",
+                "homepage": null,
                 "id": 277320870,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2023-01-06T11:53:14Z",
+                "open_issues": 18,
                 "owner": "kolomied",
                 "repo": "cdk-sqlserver-seeder",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "aws-cdk",
+                  "cdk",
+                  "cdk-seeder",
+                  "rds-mssql",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -138,12 +205,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of higher-level reusable cdk constructs",
+                "homepage": null,
                 "id": 164016558,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-15T19:37:56Z",
+                "open_issues": 55,
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "backup",
+                  "bluegreen-deployment",
+                  "cdk",
+                  "chatops",
+                  "codecommit",
+                  "codedeploy",
+                  "codepipeline",
+                  "container",
+                  "contentful",
+                  "dependency-check",
+                  "devops",
+                  "ecs",
+                  "github",
+                  "msteams",
+                  "owasp",
+                  "slack",
+                  "stripe",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -154,12 +247,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy web sites and apps to your own cloud account effortlessly.",
+                "homepage": "https://ness.sh",
                 "id": 287727295,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-10-14T19:09:19Z",
+                "open_issues": 11,
                 "owner": "nessjs",
                 "repo": "ness",
-                "stars": 633
+                "stars": 633,
+                "topics": [
+                  "aws",
+                  "cli",
+                  "ness",
+                  "spa",
+                  "static-website"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -177,12 +281,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of higher-level reusable cdk constructs",
+                "homepage": null,
                 "id": 164016558,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-15T19:37:56Z",
+                "open_issues": 55,
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "backup",
+                  "bluegreen-deployment",
+                  "cdk",
+                  "chatops",
+                  "codecommit",
+                  "codedeploy",
+                  "codepipeline",
+                  "container",
+                  "contentful",
+                  "dependency-check",
+                  "devops",
+                  "ecs",
+                  "github",
+                  "msteams",
+                  "owasp",
+                  "slack",
+                  "stripe",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -193,12 +323,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS IAM policy statement generator with fluent interface",
+                "homepage": "https://iam-floyd.readthedocs.io/",
                 "id": 268601916,
                 "language": "TypeScript",
-                "last_commit": "2026-08-29T01:19:11Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:16:43Z",
+                "open_issues": 8,
                 "owner": "udondan",
                 "repo": "iam-floyd",
-                "stars": 572
+                "stars": 572,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "cdk",
+                  "generator",
+                  "hacktoberfest",
+                  "iam",
+                  "iam-policy",
+                  "jsii"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -209,12 +353,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhance the security of your web applications effortlessly with AWS Firewall Factory. Safeguard your valuable assets through seamless WAF deployment, updates, and staging, all centrally managed with AWS Firewall Manager.",
+                "homepage": "https://docs.aws-firewall-factory.com/",
                 "id": 424974259,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-17T19:53:06Z",
+                "open_issues": 16,
                 "owner": "globaldatanet",
                 "repo": "aws-firewall-factory",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "amazon-web-services",
+                  "aws",
+                  "cdk",
+                  "devsecops",
+                  "firewall",
+                  "governance",
+                  "hacktoberfest",
+                  "owasp",
+                  "owasp-top-10",
+                  "security",
+                  "typescript",
+                  "waf",
+                  "wafv2"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -225,12 +388,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "𝗖𝟯 provides compliant AWS CDK components to various security standards.",
+                "homepage": null,
                 "id": 261698996,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-24T10:21:17Z",
+                "open_issues": 10,
                 "owner": "SSHcom",
                 "repo": "c3",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "aws-cdk",
+                  "cis",
+                  "cis-controls",
+                  "gdpr",
+                  "gdpr-compliant",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "infrastructure",
+                  "infrastructure-as-code",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -241,12 +420,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an AWS CDK construct for having passwordless authentication using Cognito userpool",
+                "homepage": null,
                 "id": 203192918,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-04T08:16:21Z",
+                "open_issues": 37,
                 "owner": "farminf",
                 "repo": "aws-cdk-passwordless",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "aws",
+                  "cognito",
+                  "passwordless",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -257,12 +446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This CDK Construct helps create IAM Managed Policies and IAM Roles using JSON Configuration",
+                "homepage": null,
                 "id": 232225003,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-26T00:28:50Z",
+                "open_issues": 9,
                 "owner": "srihariph",
                 "repo": "cdk-iam-generator",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -273,12 +467,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provision strong AWS security policies easily using the AWS CDK, v1 or v2.",
+                "homepage": null,
                 "id": 300446590,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-15T18:31:52Z",
+                "open_issues": 2,
                 "owner": "k9securityio",
                 "repo": "k9-cdk",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "aws",
+                  "cdk",
+                  "iam"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -296,12 +499,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implode your AWS CDK Stack after set amount of time, save money, be happy!",
+                "homepage": null,
                 "id": 262691843,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-07T03:49:12Z",
+                "open_issues": 22,
                 "owner": "jmb12686",
                 "repo": "cdk-time-bomb",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "aws",
+                  "cdk",
+                  "infrastructure-as-code"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -312,12 +524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CDK Constructs",
+                "homepage": null,
                 "id": 237792916,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-05T06:18:59Z",
+                "open_issues": 11,
                 "owner": "tecracer",
                 "repo": "cdk-constructs",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -335,12 +552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS CDK SQS Construct with alarms and dead letter queue",
+                "homepage": null,
                 "id": 253610232,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-09T19:07:29Z",
+                "open_issues": 4,
                 "owner": "kamilbiela",
                 "repo": "cdk-sqs-monitored",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -351,12 +573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS CDK Constructs to create SES templates and send templated emails",
+                "homepage": null,
                 "id": 204962520,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-04T08:27:32Z",
+                "open_issues": 12,
                 "owner": "mkrn",
                 "repo": "cdk-ses-template-mailer",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -374,12 +601,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of higher-level reusable cdk constructs",
+                "homepage": null,
                 "id": 164016558,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-15T19:37:56Z",
+                "open_issues": 55,
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "backup",
+                  "bluegreen-deployment",
+                  "cdk",
+                  "chatops",
+                  "codecommit",
+                  "codedeploy",
+                  "codepipeline",
+                  "container",
+                  "contentful",
+                  "dependency-check",
+                  "devops",
+                  "ecs",
+                  "github",
+                  "msteams",
+                  "owasp",
+                  "slack",
+                  "stripe",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -390,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "setup and manage continuous delivery pipelines for code libraries in multiple languages",
+                "homepage": null,
                 "id": 153164192,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T22:17:01Z",
+                "open_issues": 0,
                 "owner": "cdklabs",
                 "repo": "aws-delivlib",
-                "stars": 377
+                "stars": 377,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -413,12 +671,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy-to-use CDK constructs for monitoring your AWS infrastructure",
+                "homepage": "https://constructs.dev/packages/cdk-monitoring-constructs",
                 "id": 462043866,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T00:16:25Z",
+                "open_issues": 67,
                 "owner": "cdklabs",
                 "repo": "cdk-monitoring-constructs",
-                "stars": 554
+                "stars": 554,
+                "topics": [
+                  "aws",
+                  "cdk",
+                  "cdk-construct",
+                  "cdk-constructs",
+                  "monitoring",
+                  "ops"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -429,12 +699,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Watching what's up with your CDK apps since 2019",
+                "homepage": null,
                 "id": 194738138,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T22:13:29Z",
+                "open_issues": 6,
                 "owner": "cdklabs",
                 "repo": "cdk-watchful",
-                "stars": 541
+                "stars": 541,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -445,12 +720,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CDK construct that sets up email alerts for AWS monthly bill",
+                "homepage": null,
                 "id": 321767297,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-05T17:53:20Z",
+                "open_issues": 6,
                 "owner": "alvyn279",
                 "repo": "aws-cdk-billing-alarm",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "aws-billing",
+                  "aws-cdk",
+                  "aws-cloudwatch",
+                  "aws-sns",
+                  "cdk-construct"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -468,12 +754,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of higher-level reusable cdk constructs",
+                "homepage": null,
                 "id": 164016558,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-15T19:37:56Z",
+                "open_issues": 55,
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "backup",
+                  "bluegreen-deployment",
+                  "cdk",
+                  "chatops",
+                  "codecommit",
+                  "codedeploy",
+                  "codepipeline",
+                  "container",
+                  "contentful",
+                  "dependency-check",
+                  "devops",
+                  "ecs",
+                  "github",
+                  "msteams",
+                  "owasp",
+                  "slack",
+                  "stripe",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -484,12 +796,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of higher-level reusable cdk constructs",
+                "homepage": null,
                 "id": 164016558,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-15T19:37:56Z",
+                "open_issues": 55,
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "backup",
+                  "bluegreen-deployment",
+                  "cdk",
+                  "chatops",
+                  "codecommit",
+                  "codedeploy",
+                  "codepipeline",
+                  "container",
+                  "contentful",
+                  "dependency-check",
+                  "devops",
+                  "ecs",
+                  "github",
+                  "msteams",
+                  "owasp",
+                  "slack",
+                  "stripe",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -500,12 +838,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of higher-level reusable cdk constructs",
+                "homepage": null,
                 "id": 164016558,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-15T19:37:56Z",
+                "open_issues": 55,
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "backup",
+                  "bluegreen-deployment",
+                  "cdk",
+                  "chatops",
+                  "codecommit",
+                  "codedeploy",
+                  "codepipeline",
+                  "container",
+                  "contentful",
+                  "dependency-check",
+                  "devops",
+                  "ecs",
+                  "github",
+                  "msteams",
+                  "owasp",
+                  "slack",
+                  "stripe",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -516,12 +880,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of higher-level reusable cdk constructs",
+                "homepage": null,
                 "id": 164016558,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-15T19:37:56Z",
+                "open_issues": 55,
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "backup",
+                  "bluegreen-deployment",
+                  "cdk",
+                  "chatops",
+                  "codecommit",
+                  "codedeploy",
+                  "codepipeline",
+                  "container",
+                  "contentful",
+                  "dependency-check",
+                  "devops",
+                  "ecs",
+                  "github",
+                  "msteams",
+                  "owasp",
+                  "slack",
+                  "stripe",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -532,12 +922,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of higher-level reusable cdk constructs",
+                "homepage": null,
                 "id": 164016558,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-15T19:37:56Z",
+                "open_issues": 55,
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "backup",
+                  "bluegreen-deployment",
+                  "cdk",
+                  "chatops",
+                  "codecommit",
+                  "codedeploy",
+                  "codepipeline",
+                  "container",
+                  "contentful",
+                  "dependency-check",
+                  "devops",
+                  "ecs",
+                  "github",
+                  "msteams",
+                  "owasp",
+                  "slack",
+                  "stripe",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -548,12 +964,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mag: Data pipeline for crawling PDFs from the Web and transforming their contents into structured data using AWS textract. Built with AWS CDK + TypeScript ",
+                "homepage": null,
                 "id": 242643811,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-05T13:57:47Z",
+                "open_issues": 5,
                 "owner": "aeksco",
                 "repo": "aws-pdf-textract-pipeline",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "aws-textract",
+                  "cdk",
+                  "cloudformation",
+                  "data-pipeline",
+                  "dynamodb",
+                  "jest",
+                  "lambda",
+                  "pdf",
+                  "puppeteer",
+                  "s3",
+                  "serverless",
+                  "sns",
+                  "textract",
+                  "typescript",
+                  "webscraping"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -564,12 +1003,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shared constructs for AWS CDK",
+                "homepage": null,
                 "id": 169919643,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-04T21:48:51Z",
+                "open_issues": 24,
                 "owner": "taimos",
                 "repo": "cdk-constructs",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "aws",
+                  "aws-cdk",
+                  "cdk",
+                  "cloudformation"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -587,12 +1036,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage AWS organizations, organizational units (OU), accounts and service control policies (SCP).",
+                "homepage": null,
                 "id": 446507878,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-19T02:17:01Z",
+                "open_issues": 26,
                 "owner": "pepperize",
                 "repo": "cdk-organizations",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "account",
+                  "account-management",
+                  "aws",
+                  "cdk",
+                  "organizational-units",
+                  "organizations",
+                  "policies",
+                  "tag-resources"
+                ]
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             },
@@ -603,12 +1066,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 299928938,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-24T06:06:36Z",
+                "open_issues": 11,
                 "owner": "awslabs",
                 "repo": "aws-bootstrap-kit",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:39.993Z"
             }
@@ -630,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build full-stack apps on your own infrastructure.",
+            "homepage": "https://sst.dev",
             "id": 285092252,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-12T20:03:49Z",
+            "open_issues": 316,
             "owner": "anomalyco",
             "repo": "sst",
-            "stars": 26265
+            "stars": 26265,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -646,12 +1119,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Type-safe AWS infrastructure.",
+            "homepage": null,
             "id": 181975248,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-09T20:28:33Z",
+            "open_issues": 41,
             "owner": "sam-goodwin",
             "repo": "punchcard",
-            "stars": 515
+            "stars": 515,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "infrastructure-as-code",
+              "javascript",
+              "nodejs",
+              "punchcard",
+              "serverless",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -662,12 +1149,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and deploy a serverless data pipeline on AWS with no effort.",
+            "homepage": "https://pypi.org/project/datajob/",
             "id": 306434736,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-08T04:33:47Z",
+            "open_issues": 19,
             "owner": "vincentclaes",
             "repo": "datajob",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "data-pipeline",
+              "glue",
+              "glue-job",
+              "machine-learning",
+              "pipeline",
+              "sagemaker",
+              "serverless",
+              "stepfunctions"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -678,12 +1181,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Purely Functional and high-order cloud components with AWS CDK",
+            "homepage": null,
             "id": 203997115,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T04:35:38Z",
+            "open_issues": 10,
             "owner": "fogfish",
             "repo": "aws-cdk-pure",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "cloud-component",
+              "higher-order-component",
+              "hoc",
+              "iaac",
+              "infrastructure",
+              "infrastructure-as-code",
+              "pure-functional",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -694,12 +1213,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of Step Functions high-level resiliency patterns.",
+            "homepage": null,
             "id": 287946997,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-12-15T21:41:20Z",
+            "open_issues": 0,
             "owner": "kolomied",
             "repo": "cdk-stepfunctions-patterns",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "aws",
+              "cdk",
+              "pattern",
+              "pattern-library",
+              "patterns",
+              "resiliency",
+              "resiliency-patterns",
+              "stepfunctions"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -710,12 +1243,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The elegance of Airflow + the power of AWS",
+            "homepage": "https://knowsuchagency.github.io/orkestra",
             "id": 362385099,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-05T17:53:26Z",
+            "open_issues": 1,
             "owner": "knowsuchagency",
             "repo": "orkestra",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "aws",
+              "orchestration",
+              "step-functions"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         }
@@ -732,12 +1274,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter project for ReactJS + Amazon Cognito + Amazon Amplify Framework with AWS CDK support",
+            "homepage": "https://medium.com/@budilov/building-a-serverless-podcast-search-engine-on-aws-part-1-f6e58fbc3c06",
             "id": 211361057,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-02-20T02:56:34Z",
+            "open_issues": 4,
             "owner": "vbudilov",
             "repo": "reactjs-cognito-starter",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "amazon-cognito",
+              "antd",
+              "aws-cognito",
+              "cdk",
+              "gitlab-ci",
+              "reactjs",
+              "starter-template"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -748,12 +1303,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create CDK Apps from Templates",
+            "homepage": "https://cdk.dev",
             "id": 270042654,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-06-22T20:31:57Z",
+            "open_issues": 12,
             "owner": "cdk-dev",
             "repo": "create-cdk-app",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "cdk",
+              "create-app",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -764,12 +1330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS CDK Construct libraries",
+            "homepage": null,
             "id": 235806958,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T05:34:40Z",
+            "open_issues": 10,
             "owner": "lufzle",
             "repo": "rnbw-aws-cdk",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -780,12 +1351,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "JSII construct library template for AWS CDK",
+            "homepage": null,
             "id": 270672598,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-12-22T19:54:07Z",
+            "open_issues": 4,
             "owner": "pahud",
             "repo": "awscdk-jsii-template",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         }
@@ -802,12 +1378,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "λ💨 AWS CDK Construct to bundle JavaScript and TypeScript AWS lambdas using extremely fast esbuild.",
+            "homepage": "https://floydspace.github.io/aws-lambda-nodejs-esbuild/",
             "id": 306990675,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-07-19T10:57:57Z",
+            "open_issues": 3,
             "owner": "floydspace",
             "repo": "aws-lambda-nodejs-esbuild",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "aws-lambda",
+              "aws-lambda-node",
+              "builder",
+              "bundler",
+              "cdk-construct",
+              "construct",
+              "esbuild",
+              "lambda",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -818,12 +1411,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "λ CDK Construct to build Node.js AWS lambdas using webpack",
+            "homepage": null,
             "id": 281355908,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-10-05T14:10:04Z",
+            "open_issues": 11,
             "owner": "vvo",
             "repo": "aws-lambda-nodejs-webpack",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "aws-lambda",
+              "cdk-construct",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -834,12 +1438,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Define and deploy CDK applications using Java and Maven",
+            "homepage": null,
             "id": 269126365,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-27T07:01:09Z",
+            "open_issues": 13,
             "owner": "LinguaRobot",
             "repo": "aws-cdk-maven-plugin",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "cdk",
+              "java",
+              "maven",
+              "maven-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -850,12 +1466,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code generation of Kotlin DSL for AWS CDK",
+            "homepage": null,
             "id": 201752886,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-16T11:38:20Z",
+            "open_issues": 0,
             "owner": "justincase-jp",
             "repo": "AWS-CDK-Kotlin-DSL",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "code-generation",
+              "kotlin-dsl",
+              "kotlin-library"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         }
@@ -872,12 +1499,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dockerfile and Github action for publishing JSII packages",
+            "homepage": null,
             "id": 228866360,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-02-19T08:03:22Z",
+            "open_issues": 3,
             "owner": "udondan",
             "repo": "jsii-publish",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         }
@@ -894,12 +1526,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example projects using the AWS CDK",
+            "homepage": null,
             "id": 168772474,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T19:40:53Z",
+            "open_issues": 14,
             "owner": "aws-samples",
             "repo": "aws-cdk-examples",
-            "stars": 5621
+            "stars": 5621,
+            "topics": [
+              "cdk",
+              "cdk-examples"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -910,12 +1550,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.",
+            "homepage": "https://cdkpatterns.com",
             "id": 233364188,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-30T06:00:03Z",
+            "open_issues": 116,
             "owner": "cdk-patterns",
             "repo": "serverless",
-            "stars": 2352
+            "stars": 2352,
+            "topics": [
+              "appsync",
+              "aws",
+              "aws-cdk",
+              "cdk",
+              "cloudformation",
+              "dynamodb",
+              "eventbridge",
+              "graphql",
+              "lambda-destinations",
+              "lambda-functions",
+              "python",
+              "serverless",
+              "sns",
+              "sqs",
+              "stepfunctions",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -926,12 +1588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This guide is an opinionated set of tips and best practices for working with the AWS Cloud Development Kit",
+            "homepage": null,
             "id": 201140589,
             "language": null,
+            "license": null,
             "last_commit": "2021-07-04T07:24:27Z",
+            "open_issues": 2,
             "owner": "kevinslin",
             "repo": "open-cdk",
-            "stars": 866
+            "stars": 866,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -942,12 +1609,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is a demo application that uses modern serverless architecture to crawl changelogs from open source projects, parse them, and provide an API and website for viewing them.",
+            "homepage": "https://changelogs.md",
             "id": 176996794,
             "language": "JavaScript",
+            "license": "MIT-0",
             "last_commit": "2023-07-13T07:46:28Z",
+            "open_issues": 8,
             "owner": "aws-samples",
             "repo": "aws-cdk-changelogs-demo",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "aws",
+              "aws-fargate",
+              "aws-lambda",
+              "nodejs",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -958,12 +1636,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serverless pre-rendering (SSR) for React SPA using AWS Lambda, S3, and CloudFront.",
+            "homepage": "https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html",
             "id": 237771074,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-06-15T20:43:31Z",
+            "open_issues": 4,
             "owner": "sbstjn",
             "repo": "cra-serverless",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "aws-lambda",
+              "cra",
+              "cra-serverless",
+              "create-react-app",
+              "react",
+              "serverless",
+              "ssr"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -974,12 +1667,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Templates for aws cdk",
+            "homepage": null,
             "id": 188689911,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-03T13:14:56Z",
+            "open_issues": 15,
             "owner": "tecracer",
             "repo": "cdk-templates",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "aws",
+              "cdk"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -990,12 +1691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example Next.js project deployed on Vercel with AWS services for database, cron jobs and asynchronous jobs",
+            "homepage": "https://nextjs-vercel-aws-cdk-example.vercel.app",
             "id": 288231280,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-10-08T23:03:59Z",
+            "open_issues": 1,
             "owner": "vvo",
             "repo": "nextjs-vercel-aws-cdk-example",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1006,12 +1712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample code for an ECS application definition using CDK",
+            "homepage": null,
             "id": 186411887,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-09T02:32:34Z",
+            "open_issues": 9,
             "owner": "rix0rrr",
             "repo": "cdk-ecs-demo",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1022,12 +1733,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use AWS CDK with CodePipeline to deploy a TypeScript Create-React-App.",
+            "homepage": "https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html",
             "id": 235557317,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-06-07T18:19:24Z",
+            "open_issues": 6,
             "owner": "sbstjn",
             "repo": "cra-pipeline",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "aws-cdk",
+              "aws-codepipeline",
+              "cra",
+              "cra-pipeline",
+              "deployment",
+              "pipeline",
+              "react",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1038,12 +1763,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example project explaining how to create and publish CDK constructs using projen and jsii. It lets you publish your CDK constructs to npm, Maven, NuGet and PyPi.",
+            "homepage": null,
             "id": 334408330,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-06T03:58:29Z",
+            "open_issues": 7,
             "owner": "seeebiii",
             "repo": "projen-test",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "aws-cdk-construct",
+              "aws-cdk-java",
+              "aws-cdk-node",
+              "aws-lambda",
+              "documentation",
+              "getting-started",
+              "getting-started-with-aws-cdk",
+              "jsii",
+              "projen"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1054,12 +1796,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " Enjoy Dilbert in your RSS feed reader without any ads",
+            "homepage": null,
             "id": 105390097,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-01T13:28:37Z",
+            "open_issues": 0,
             "owner": "mlafeldt",
             "repo": "dilbert-feed",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "aws",
+              "cdk",
+              "dilbert",
+              "recreational",
+              "rss",
+              "rust",
+              "serverless",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1070,12 +1826,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://api.l3x.in source code",
+            "homepage": "https://api.l3x.in",
             "id": 236436088,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-25T08:19:34Z",
+            "open_issues": 0,
             "owner": "shaftoe",
             "repo": "api-l3x-in",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "api-rest",
+              "apigateway",
+              "cdk",
+              "lambda",
+              "serverless",
+              "sns"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1086,12 +1854,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 236357435,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-03T15:23:51Z",
+            "open_issues": 0,
             "owner": "shaftoe",
             "repo": "api-gateway-lambda-cdk-example",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "aws",
+              "aws-api-gateway",
+              "aws-cdk",
+              "aws-lambda",
+              "pushover-api",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1102,12 +1882,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reference for cdk implementation of the sample colorteller app provided by AWS",
+            "homepage": null,
             "id": 235482168,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-15T03:24:31Z",
+            "open_issues": 14,
             "owner": "denmat",
             "repo": "colorteller-aws-cdk",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         }
@@ -1124,12 +1909,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phone verification service built using: AWS cdk, api gateway, dotnet, lambda, dynamodb, and sns",
+            "homepage": null,
             "id": 199725521,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-12-09T21:36:56Z",
+            "open_issues": 10,
             "owner": "jakejscott",
             "repo": "aws-cdk-phone-verify-api",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "api-gateway",
+              "aws",
+              "aws-cdk",
+              "cdk",
+              "dotnet",
+              "dynamodb",
+              "lambda"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1140,12 +1938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 223008614,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-05T01:38:19Z",
+            "open_issues": 15,
             "owner": "HatchSoftware",
             "repo": "automatic-aws-db-shutdown-cdk",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1156,12 +1959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo AWS UDP NLB Logging Service",
+            "homepage": "https://youtu.be/dXTEVp0ATzo",
             "id": 196348777,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-12T04:38:58Z",
+            "open_issues": 0,
             "owner": "ClouderDex",
             "repo": "CDK-UDP-NLB-Demo",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         }
@@ -1178,12 +1986,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+            "homepage": "https://www.terraform.io/cdktf",
             "id": 232603801,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2025-12-10T14:12:01Z",
+            "open_issues": 389,
             "owner": "hashicorp",
             "repo": "terraform-cdk",
-            "stars": 5074
+            "stars": 5074,
+            "topics": [
+              "cdk",
+              "cdktf",
+              "hack",
+              "infrastructure-as-code",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1194,12 +2013,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Define Kubernetes native apps and abstractions using object-oriented programming",
+            "homepage": "https://cdk8s.io",
             "id": 105809298,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:45:25Z",
+            "open_issues": 73,
             "owner": "cdk8s-team",
             "repo": "cdk8s",
-            "stars": 4852
+            "stars": 4852,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1210,12 +2034,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!",
+            "homepage": "https://aws.github.io/jsii",
             "id": 105802846,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:05:31Z",
+            "open_issues": 159,
             "owner": "aws",
             "repo": "jsii",
-            "stars": 2866
+            "stars": 2866,
+            "topics": [
+              "aws",
+              "cross-language",
+              "hacktoberfest",
+              "node",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         },
@@ -1226,12 +2061,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agile Threat Modeling as Code",
+            "homepage": null,
             "id": 504493742,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-06-30T17:17:08Z",
+            "open_issues": 0,
             "owner": "hupe1980",
             "repo": "cdk-threagile",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "appsec",
+              "cdk",
+              "cdktg",
+              "constructs",
+              "devsecops",
+              "modeling",
+              "stride",
+              "threagile",
+              "threat"
+            ]
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
         }
@@ -1240,15 +2090,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:55:39.993Z",
+    "last_updated": "2026-08-29T04:25:06.599Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome things related to the AWS Cloud Development Kit (CDK)",
+      "homepage": null,
       "id": 166025620,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-03-12T09:19:49Z",
+      "open_issues": 10,
       "owner": "kalaiser",
       "repo": "awesome-cdk",
-      "stars": 2126
+      "stars": 2126,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "aws",
+        "aws-cdk",
+        "cdk"
+      ]
     },
     "original_repository_sha": "59c51d04074d7cd76019cadca01e05a306852879",
     "enhanced_repository": "enhansome/enhansome-cdk",

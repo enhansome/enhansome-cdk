@@ -115,7 +115,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Language Support
 
-* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 3 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,024 | 🐛 612 | 🌐 Go | 📅 2026-08-09.
+* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 3 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,026 | 🐛 612 | 🌐 Go | 📅 2026-08-09.
 * [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) ⚠️ Archived - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
 * [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) ⭐ 14 | 🐛 13 | 🌐 Java | 📅 2023-01-27 - A plugin to define and deploy your AWS CDK applications using Java and Maven.
 * [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) ⚠️ Archived - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
@@ -140,7 +140,7 @@ This section includes code libraries in various programming languages which vend
 * [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) ⭐ 76 | 🐛 1 | 🌐 JavaScript | 📅 2020-10-08 - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application.
 * [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo) ⭐ 42 | 🐛 9 | 🌐 TypeScript | 📅 2022-12-09 - Demo of deploying ECS application using CDK.
 * [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) ⭐ 41 | 🐛 6 | 🌐 TypeScript | 📅 2020-06-07 project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application.
-* [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) ⭐ 38 | 🐛 7 | 🌐 TypeScript | 📅 2023-03-06 - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) ⭐ 2,949 | 🐛 242 | 🌐 TypeScript | 📅 2026-08-29 and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
+* [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) ⭐ 38 | 🐛 7 | 🌐 TypeScript | 📅 2023-03-06 - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) ⭐ 2,949 | 🐛 243 | 🌐 TypeScript | 📅 2026-08-29 and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
 * [dilbert-feed](https://github.com/mlafeldt/dilbert-feed) ⚠️ Archived - A serverless application written in Go that allows you to enjoy Dilbert in your RSS feed reader without any ads.
 * [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2021-09-25 - Source code that powers REST APIs at <https://api.l3x.in/>.
 * [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example) ⚠️ Archived - Deploy a functional public API that receives an HTML form (e.g. /contact\_us.html) POST request and delivers its data to Pushover notification service.
