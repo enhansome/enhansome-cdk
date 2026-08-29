@@ -18,7 +18,8 @@
                 "owner": "alexpulver",
                 "repo": "cdk-chalice",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "wulfmann",
                 "repo": "auto-cdk",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "thomasstep",
                 "repo": "crow-api",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "cdklabs",
                 "repo": "cdk-dynamo-table-viewer",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "elegantdevelopment",
                 "repo": "aws-cdk-dynamodb-seeder",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -96,11 +101,12 @@
                 "archived": false,
                 "id": 272805860,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:58:53Z",
+                "last_commit": "2026-08-28T20:53:57Z",
                 "owner": "botpress",
                 "repo": "cdk-postgresql",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "kolomied",
                 "repo": "cdk-sqlserver-seeder",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -137,7 +144,8 @@
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
                 "stars": 635
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "nessjs",
                 "repo": "ness",
                 "stars": 633
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -174,7 +183,8 @@
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
                 "stars": 635
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -185,11 +195,12 @@
                 "archived": false,
                 "id": 268601916,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T02:43:54Z",
+                "last_commit": "2026-08-29T01:19:11Z",
                 "owner": "udondan",
                 "repo": "iam-floyd",
                 "stars": 572
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "globaldatanet",
                 "repo": "aws-firewall-factory",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "SSHcom",
                 "repo": "c3",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "farminf",
                 "repo": "aws-cdk-passwordless",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "srihariph",
                 "repo": "cdk-iam-generator",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "k9securityio",
                 "repo": "k9-cdk",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -286,7 +302,8 @@
                 "owner": "jmb12686",
                 "repo": "cdk-time-bomb",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "tecracer",
                 "repo": "cdk-constructs",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -323,7 +341,8 @@
                 "owner": "kamilbiela",
                 "repo": "cdk-sqs-monitored",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "mkrn",
                 "repo": "cdk-ses-template-mailer",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -360,7 +380,8 @@
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
                 "stars": 635
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -374,8 +395,9 @@
                 "last_commit": "2026-08-24T22:17:01Z",
                 "owner": "cdklabs",
                 "repo": "aws-delivlib",
-                "stars": 376
-              }
+                "stars": 377
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -396,8 +418,9 @@
                 "last_commit": "2026-08-24T00:16:25Z",
                 "owner": "cdklabs",
                 "repo": "cdk-monitoring-constructs",
-                "stars": 553
-              }
+                "stars": 554
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -412,7 +435,8 @@
                 "owner": "cdklabs",
                 "repo": "cdk-watchful",
                 "stars": 541
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -427,7 +451,8 @@
                 "owner": "alvyn279",
                 "repo": "aws-cdk-billing-alarm",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -449,7 +474,8 @@
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
                 "stars": 635
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -464,7 +490,8 @@
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
                 "stars": 635
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -479,7 +506,8 @@
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
                 "stars": 635
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -494,7 +522,8 @@
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
                 "stars": 635
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -509,7 +538,8 @@
                 "owner": "cloudcomponents",
                 "repo": "cdk-constructs",
                 "stars": 635
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -524,7 +554,8 @@
                 "owner": "aeksco",
                 "repo": "aws-pdf-textract-pipeline",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -539,7 +570,8 @@
                 "owner": "taimos",
                 "repo": "cdk-constructs",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -561,7 +593,8 @@
                 "owner": "pepperize",
                 "repo": "cdk-organizations",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             },
             {
               "node_type": "item",
@@ -576,7 +609,8 @@
                 "owner": "awslabs",
                 "repo": "aws-bootstrap-kit",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T01:55:39.993Z"
             }
           ],
           "description": null,
@@ -602,7 +636,8 @@
             "owner": "anomalyco",
             "repo": "sst",
             "stars": 26265
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -617,7 +652,8 @@
             "owner": "sam-goodwin",
             "repo": "punchcard",
             "stars": 515
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -632,7 +668,8 @@
             "owner": "vincentclaes",
             "repo": "datajob",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -647,7 +684,8 @@
             "owner": "fogfish",
             "repo": "aws-cdk-pure",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -662,7 +700,8 @@
             "owner": "kolomied",
             "repo": "cdk-stepfunctions-patterns",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -677,7 +716,8 @@
             "owner": "knowsuchagency",
             "repo": "orkestra",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         }
       ],
       "title": "High-Level Frameworks"
@@ -698,7 +738,8 @@
             "owner": "vbudilov",
             "repo": "reactjs-cognito-starter",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -713,7 +754,8 @@
             "owner": "cdk-dev",
             "repo": "create-cdk-app",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -728,7 +770,8 @@
             "owner": "lufzle",
             "repo": "rnbw-aws-cdk",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -743,7 +786,8 @@
             "owner": "pahud",
             "repo": "awscdk-jsii-template",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         }
       ],
       "title": "Scaffolding"
@@ -764,7 +808,8 @@
             "owner": "floydspace",
             "repo": "aws-lambda-nodejs-esbuild",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -779,7 +824,8 @@
             "owner": "vvo",
             "repo": "aws-lambda-nodejs-webpack",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -794,7 +840,8 @@
             "owner": "LinguaRobot",
             "repo": "aws-cdk-maven-plugin",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -809,7 +856,8 @@
             "owner": "justincase-jp",
             "repo": "AWS-CDK-Kotlin-DSL",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         }
       ],
       "title": "Language Support"
@@ -830,7 +878,8 @@
             "owner": "udondan",
             "repo": "jsii-publish",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         }
       ],
       "title": "Library Publishing"
@@ -850,8 +899,9 @@
             "last_commit": "2026-07-29T19:40:53Z",
             "owner": "aws-samples",
             "repo": "aws-cdk-examples",
-            "stars": 5622
-          }
+            "stars": 5621
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -866,7 +916,8 @@
             "owner": "cdk-patterns",
             "repo": "serverless",
             "stars": 2352
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -881,7 +932,8 @@
             "owner": "kevinslin",
             "repo": "open-cdk",
             "stars": 866
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -896,7 +948,8 @@
             "owner": "aws-samples",
             "repo": "aws-cdk-changelogs-demo",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -911,7 +964,8 @@
             "owner": "sbstjn",
             "repo": "cra-serverless",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -926,7 +980,8 @@
             "owner": "tecracer",
             "repo": "cdk-templates",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -941,7 +996,8 @@
             "owner": "vvo",
             "repo": "nextjs-vercel-aws-cdk-example",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -956,7 +1012,8 @@
             "owner": "rix0rrr",
             "repo": "cdk-ecs-demo",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -971,7 +1028,8 @@
             "owner": "sbstjn",
             "repo": "cra-pipeline",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -986,7 +1044,8 @@
             "owner": "seeebiii",
             "repo": "projen-test",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -1001,7 +1060,8 @@
             "owner": "mlafeldt",
             "repo": "dilbert-feed",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -1016,7 +1076,8 @@
             "owner": "shaftoe",
             "repo": "api-l3x-in",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -1031,7 +1092,8 @@
             "owner": "shaftoe",
             "repo": "api-gateway-lambda-cdk-example",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -1046,7 +1108,8 @@
             "owner": "denmat",
             "repo": "colorteller-aws-cdk",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         }
       ],
       "title": "Training Materials and Sample Code"
@@ -1067,7 +1130,8 @@
             "owner": "jakejscott",
             "repo": "aws-cdk-phone-verify-api",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -1082,7 +1146,8 @@
             "owner": "HatchSoftware",
             "repo": "automatic-aws-db-shutdown-cdk",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -1097,7 +1162,8 @@
             "owner": "ClouderDex",
             "repo": "CDK-UDP-NLB-Demo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         }
       ],
       "title": "Blog Posts & Talks"
@@ -1118,7 +1184,8 @@
             "owner": "hashicorp",
             "repo": "terraform-cdk",
             "stars": 5074
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -1129,11 +1196,12 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:30:58Z",
+            "last_commit": "2026-08-28T19:45:25Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
-            "stars": 4851
-          }
+            "stars": 4852
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -1148,7 +1216,8 @@
             "owner": "aws",
             "repo": "jsii",
             "stars": 2866
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         },
         {
           "node_type": "item",
@@ -1163,14 +1232,15 @@
             "owner": "hupe1980",
             "repo": "cdk-threagile",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:55:39.993Z"
         }
       ],
       "title": "Related Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:22:07.983Z",
+    "last_updated": "2026-08-29T01:55:39.993Z",
     "original_repository_info": {
       "archived": false,
       "id": 166025620,
