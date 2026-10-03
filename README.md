@@ -1,6 +1,6 @@
 # Awesome CDK with stars
 
-> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) ⭐ 12,921 | 🐛 2,873 | 🌐 TypeScript | 📅 2026-10-02 (AWS CDK) open-source projects, guides, blogs and other resources.
+> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) ⭐ 12,922 | 🐛 2,875 | 🌐 TypeScript | 📅 2026-10-02 (AWS CDK) open-source projects, guides, blogs and other resources.
 
 The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework for defining cloud infrastructure in code.
 
@@ -53,7 +53,7 @@ This section includes code libraries in various programming languages which vend
 ### Security
 
 * [cdk-cloudfront-authorization](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) ⭐ 635 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CloudFront with Cognito authentication using Lambda\@Edge.
-* [cdk-iam-floyd](https://github.com/udondan/iam-floyd) ⭐ 571 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-03 - IAM policy statement generator with fluent interface.
+* [cdk-iam-floyd](https://github.com/udondan/iam-floyd) ⭐ 571 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-03 - IAM policy statement generator with fluent interface.
 * [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) ⭐ 257 | 🐛 19 | 🌐 TypeScript | 📅 2025-11-17 - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 * [c3](https://github.com/SSHcom/c3) ⚠️ Archived - Enables compliancy with privacy and security best practices.
 * [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless) ⭐ 19 | 🐛 37 | 🌐 JavaScript | 📅 2023-01-04 - Construct for having passwordless authentication using userpool.
@@ -99,7 +99,7 @@ This section includes code libraries in various programming languages which vend
 
 ## High-Level Frameworks
 
-* [SST](https://github.com/serverless-stack/serverless-stack) ⭐ 26,327 | 🐛 341 | 🌐 TypeScript | 📅 2026-07-12 - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
+* [SST](https://github.com/serverless-stack/serverless-stack) ⭐ 26,329 | 🐛 342 | 🌐 TypeScript | 📅 2026-07-12 - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
 * [punchcard](https://github.com/punchcard/punchcard) ⭐ 515 | 🐛 41 | 🌐 TypeScript | 📅 2021-12-09 - TypeScript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one Node.js application.
 * [Datajob](https://github.com/vincentclaes/datajob) ⭐ 111 | 🐛 19 | 🌐 Python | 📅 2023-02-08 - Build and deploy a serverless data pipeline or machine learning pipeline on AWS with no effort.
 * [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) ⭐ 95 | 🐛 10 | 🌐 TypeScript | 📅 2023-01-07 - A toolkit to develop purely functional and high-order cloud components with AWS CDK.
@@ -115,7 +115,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Language Support
 
-* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 4 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,071 | 🐛 626 | 🌐 Go | 📅 2026-08-09.
+* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 4 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,071 | 🐛 627 | 🌐 Go | 📅 2026-08-09.
 * [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) ⚠️ Archived - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
 * [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) ⭐ 14 | 🐛 13 | 🌐 Java | 📅 2023-01-27 - A plugin to define and deploy your AWS CDK applications using Java and Maven.
 * [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) ⚠️ Archived - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
@@ -131,13 +131,13 @@ This section includes code libraries in various programming languages which vend
 
 ## Training Materials and Sample Code
 
-* [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples) ⭐ 5,638 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-28 - A set of example projects for the AWS CDK.
-* [CDK Patterns](https://github.com/cdk-patterns/serverless) ⭐ 2,350 | 🐛 116 | 🌐 TypeScript | 📅 2024-01-30 - An opensource collection of serverless architecture patterns built with CDK.
+* [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples) ⭐ 5,639 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-28 - A set of example projects for the AWS CDK.
+* [CDK Patterns](https://github.com/cdk-patterns/serverless) ⭐ 2,349 | 🐛 116 | 🌐 TypeScript | 📅 2024-01-30 - An opensource collection of serverless architecture patterns built with CDK.
 * [Open CDK Guide](https://github.com/kevinslin/open-cdk) ⭐ 866 | 🐛 2 | 📅 2021-07-04 - Open source guide on CDK and best practices.
 * [GitHub Changelog Crawler](https://github.com/aws-samples/aws-cdk-changelogs-demo) ⚠️ Archived - A fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
 * [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - The [cra-serverless](https://github.com/sbstjn/cra-serverless) ⭐ 166 | 🐛 4 | 🌐 TypeScript | 📅 2020-06-15 project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev).
 * [Example templates for aws cdk](https://github.com/tecracer/cdk-templates) ⭐ 116 | 🐛 15 | 🌐 TypeScript | 📅 2023-10-03 - Working TypeScript snippets from several AWS projects.
-* [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) ⭐ 76 | 🐛 1 | 🌐 JavaScript | 📅 2020-10-08 - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application.
+* [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) ⭐ 75 | 🐛 1 | 🌐 JavaScript | 📅 2020-10-08 - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application.
 * [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo) ⭐ 42 | 🐛 9 | 🌐 TypeScript | 📅 2022-12-09 - Demo of deploying ECS application using CDK.
 * [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) ⭐ 41 | 🐛 6 | 🌐 TypeScript | 📅 2020-06-07 project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application.
 * [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) ⭐ 38 | 🐛 7 | 🌐 TypeScript | 📅 2023-03-06 - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) ⭐ 2,958 | 🐛 251 | 🌐 TypeScript | 📅 2026-10-03 and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
@@ -193,7 +193,7 @@ This section includes code libraries in various programming languages which vend
 ## Related Projects
 
 * [cdktf](https://github.com/hashicorp/terraform-cdk) ⚠️ Archived - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
-* [cdk8s](https://github.com/awslabs/cdk8s/) ⭐ 4,858 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-02 - Define Kubernetes native apps and abstractions using object-oriented programming.
+* [cdk8s](https://github.com/awslabs/cdk8s/) ⭐ 4,857 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-03 - Define Kubernetes native apps and abstractions using object-oriented programming.
 * [jsii](https://github.com/awslabs/jsii) ⭐ 2,869 | 🐛 161 | 🌐 TypeScript | 📅 2026-10-01 - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
 * [cdktg](https://github.com/hupe1980/cdk-threagile) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2022-06-30 - Agile Threat Modeling as Code.
 
