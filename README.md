@@ -1,6 +1,6 @@
 # Awesome CDK with stars
 
-> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) ⭐ 12,920 | 🐛 2,874 | 🌐 TypeScript | 📅 2026-10-06 (AWS CDK) open-source projects, guides, blogs and other resources.
+> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) ⭐ 12,920 | 🐛 2,873 | 🌐 TypeScript | 📅 2026-10-07 (AWS CDK) open-source projects, guides, blogs and other resources.
 
 The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework for defining cloud infrastructure in code.
 
@@ -115,14 +115,14 @@ This section includes code libraries in various programming languages which vend
 
 ## Language Support
 
-* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 4 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,073 | 🐛 624 | 🌐 Go | 📅 2026-08-09.
+* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 4 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,071 | 🐛 624 | 🌐 Go | 📅 2026-08-09.
 * [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) ⚠️ Archived - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
 * [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) ⭐ 14 | 🐛 13 | 🌐 Java | 📅 2023-01-27 - A plugin to define and deploy your AWS CDK applications using Java and Maven.
 * [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) ⚠️ Archived - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
 
 ## Library Publishing
 
-* [jsii-publish](https://github.com/udondan/jsii-publish) ⚠️ Archived - A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii) ⭐ 2,868 | 🐛 164 | 🌐 TypeScript | 📅 2026-10-06.
+* [jsii-publish](https://github.com/udondan/jsii-publish) ⚠️ Archived - A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii) ⭐ 2,868 | 🐛 163 | 🌐 TypeScript | 📅 2026-10-07.
 * [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) - GitHub Action for AWS CDK.
 
 ## Tools
@@ -132,7 +132,7 @@ This section includes code libraries in various programming languages which vend
 ## Training Materials and Sample Code
 
 * [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples) ⭐ 5,641 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-04 - A set of example projects for the AWS CDK.
-* [CDK Patterns](https://github.com/cdk-patterns/serverless) ⭐ 2,349 | 🐛 116 | 🌐 TypeScript | 📅 2024-01-30 - An opensource collection of serverless architecture patterns built with CDK.
+* [CDK Patterns](https://github.com/cdk-patterns/serverless) ⭐ 2,348 | 🐛 116 | 🌐 TypeScript | 📅 2024-01-30 - An opensource collection of serverless architecture patterns built with CDK.
 * [Open CDK Guide](https://github.com/kevinslin/open-cdk) ⭐ 866 | 🐛 2 | 📅 2021-07-04 - Open source guide on CDK and best practices.
 * [GitHub Changelog Crawler](https://github.com/aws-samples/aws-cdk-changelogs-demo) ⚠️ Archived - A fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
 * [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - The [cra-serverless](https://github.com/sbstjn/cra-serverless) ⭐ 166 | 🐛 4 | 🌐 TypeScript | 📅 2020-06-15 project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev).
@@ -140,9 +140,9 @@ This section includes code libraries in various programming languages which vend
 * [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) ⭐ 75 | 🐛 1 | 🌐 JavaScript | 📅 2020-10-08 - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application.
 * [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo) ⭐ 42 | 🐛 9 | 🌐 TypeScript | 📅 2022-12-09 - Demo of deploying ECS application using CDK.
 * [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) ⭐ 41 | 🐛 6 | 🌐 TypeScript | 📅 2020-06-07 project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application.
-* [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) ⭐ 38 | 🐛 7 | 🌐 TypeScript | 📅 2023-03-06 - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) ⭐ 2,957 | 🐛 238 | 🌐 TypeScript | 📅 2026-10-06 and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
+* [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) ⭐ 38 | 🐛 7 | 🌐 TypeScript | 📅 2023-03-06 - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) ⭐ 2,957 | 🐛 237 | 🌐 TypeScript | 📅 2026-10-07 and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
 * [dilbert-feed](https://github.com/mlafeldt/dilbert-feed) ⚠️ Archived - A serverless application written in Go that allows you to enjoy Dilbert in your RSS feed reader without any ads.
-* [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2021-09-25 - Source code that powers REST APIs at <https://api.l3x.in/>.
+* [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in) ⚠️ Archived - Source code that powers REST APIs at <https://api.l3x.in/>.
 * [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example) ⚠️ Archived - Deploy a functional public API that receives an HTML form (e.g. /contact\_us.html) POST request and delivers its data to Pushover notification service.
 * [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk) ⭐ 3 | 🐛 14 | 🌐 Python | 📅 2023-02-15 - Great example project using Fargate and Appmesh.
 * [CDK Serverless Workshop](https://cdkworkshop.com/) - A workshop that guides you through the process of creating and deploying CDK application.
@@ -193,8 +193,8 @@ This section includes code libraries in various programming languages which vend
 ## Related Projects
 
 * [cdktf](https://github.com/hashicorp/terraform-cdk) ⚠️ Archived - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
-* [cdk8s](https://github.com/awslabs/cdk8s/) ⭐ 4,857 | 🐛 70 | 🌐 JavaScript | 📅 2026-10-06 - Define Kubernetes native apps and abstractions using object-oriented programming.
-* [jsii](https://github.com/awslabs/jsii) ⭐ 2,868 | 🐛 164 | 🌐 TypeScript | 📅 2026-10-06 - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
+* [cdk8s](https://github.com/awslabs/cdk8s/) ⭐ 4,857 | 🐛 70 | 🌐 JavaScript | 📅 2026-10-07 - Define Kubernetes native apps and abstractions using object-oriented programming.
+* [jsii](https://github.com/awslabs/jsii) ⭐ 2,868 | 🐛 163 | 🌐 TypeScript | 📅 2026-10-07 - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
 * [cdktg](https://github.com/hupe1980/cdk-threagile) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2022-06-30 - Agile Threat Modeling as Code.
 
 ## Tips & Tricks
@@ -208,4 +208,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
