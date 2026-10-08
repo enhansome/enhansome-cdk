@@ -359,7 +359,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-17T19:53:06Z",
-                "open_issues": 19,
+                "open_issues": 16,
                 "owner": "globaldatanet",
                 "repo": "aws-firewall-factory",
                 "stars": 257,
@@ -677,7 +677,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T00:30:05Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "cdklabs",
                 "repo": "cdk-monitoring-constructs",
                 "stars": 554,
@@ -1103,11 +1103,11 @@
             "id": 285092252,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-12T20:03:49Z",
-            "open_issues": 342,
+            "last_commit": "2026-10-08T14:58:57Z",
+            "open_issues": 341,
             "owner": "anomalyco",
             "repo": "sst",
-            "stars": 26341,
+            "stars": 26344,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
@@ -1995,7 +1995,7 @@
             "open_issues": 389,
             "owner": "hashicorp",
             "repo": "terraform-cdk",
-            "stars": 5065,
+            "stars": 5066,
             "topics": [
               "cdk",
               "cdktf",
@@ -2018,11 +2018,11 @@
             "id": 105809298,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T15:17:59Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-08T15:13:42Z",
+            "open_issues": 69,
             "owner": "cdk8s-team",
             "repo": "cdk8s",
-            "stars": 4857,
+            "stars": 4858,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
@@ -2039,11 +2039,11 @@
             "id": 105802846,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T15:45:55Z",
-            "open_issues": 163,
+            "last_commit": "2026-10-08T15:14:46Z",
+            "open_issues": 160,
             "owner": "aws",
             "repo": "jsii",
-            "stars": 2868,
+            "stars": 2869,
             "topics": [
               "aws",
               "cross-language",
@@ -2090,7 +2090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:20:50.761Z",
+    "last_updated": "2026-10-08T23:34:30.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things related to the AWS Cloud Development Kit (CDK)",
@@ -2102,7 +2102,7 @@
       "open_issues": 10,
       "owner": "kalaiser",
       "repo": "awesome-cdk",
-      "stars": 2123,
+      "stars": 2124,
       "topics": [
         "awesome",
         "awesome-list",
