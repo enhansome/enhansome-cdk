@@ -1,6 +1,6 @@
 # Awesome CDK with stars
 
-> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) ⭐ 12,923 | 🐛 2,875 | 🌐 TypeScript | 📅 2026-10-08 (AWS CDK) open-source projects, guides, blogs and other resources.
+> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) ⭐ 12,926 | 🐛 2,874 | 🌐 TypeScript | 📅 2026-10-09 (AWS CDK) open-source projects, guides, blogs and other resources.
 
 The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework for defining cloud infrastructure in code.
 
@@ -47,12 +47,12 @@ This section includes code libraries in various programming languages which vend
 
 ### Static Websites
 
-* [cdk-static-website](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-static-website) ⭐ 635 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CDK component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS).
+* [cdk-static-website](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-static-website) ⭐ 636 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CDK component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS).
 * [ness](https://github.com/nessjs/ness) ⭐ 633 | 🐛 11 | 🌐 TypeScript | 📅 2022-10-14 - CDK powered CLI tool for deploying static sites to your AWS account.
 
 ### Security
 
-* [cdk-cloudfront-authorization](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) ⭐ 635 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CloudFront with Cognito authentication using Lambda\@Edge.
+* [cdk-cloudfront-authorization](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) ⭐ 636 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CloudFront with Cognito authentication using Lambda\@Edge.
 * [cdk-iam-floyd](https://github.com/udondan/iam-floyd) ⭐ 571 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-06 - IAM policy statement generator with fluent interface.
 * [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) ⭐ 257 | 🐛 16 | 🌐 TypeScript | 📅 2025-11-17 - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 * [c3](https://github.com/SSHcom/c3) ⚠️ Archived - Enables compliancy with privacy and security best practices.
@@ -73,7 +73,7 @@ This section includes code libraries in various programming languages which vend
 
 ### CI/CD
 
-* [cdk-blue-green-container-deployment](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-blue-green-container-deployment) ⭐ 635 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - Blue/Green container deployment with CodeDeploy.
+* [cdk-blue-green-container-deployment](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-blue-green-container-deployment) ⭐ 636 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - Blue/Green container deployment with CodeDeploy.
 * [aws-delivlib](https://github.com/awslabs/aws-delivlib) ⭐ 377 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-05 - Synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself).
 
 ### Monitoring
@@ -84,22 +84,22 @@ This section includes code libraries in various programming languages which vend
 
 ### Workflows
 
-* [cdk-pull-request-check](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check) ⭐ 635 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CDK component that automatically check pull requests.
-* [cdk-github-webhook](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-github-webhook) ⭐ 635 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CDK component that provisions GitHub webhooks.
-* [cdk-codepipeline-slack](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-codepipeline-slack) ⭐ 635 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CDK component that provisions a #slack approval workflow.
-* [cdk-codecommit-backup](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) ⭐ 635 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - Backup CodeCommit repositories to S3.
-* [cdk-developer-tools-notifications](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) ⭐ 635 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - Slack / Microsoft Teams / Email notifications for developer tools: CodeCommit, CodeBuild, CodeDeploy, CodePipeline.
+* [cdk-pull-request-check](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check) ⭐ 636 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CDK component that automatically check pull requests.
+* [cdk-github-webhook](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-github-webhook) ⭐ 636 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CDK component that provisions GitHub webhooks.
+* [cdk-codepipeline-slack](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-codepipeline-slack) ⭐ 636 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - CDK component that provisions a #slack approval workflow.
+* [cdk-codecommit-backup](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) ⭐ 636 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - Backup CodeCommit repositories to S3.
+* [cdk-developer-tools-notifications](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) ⭐ 636 | 🐛 55 | 🌐 TypeScript | 📅 2024-09-15 - Slack / Microsoft Teams / Email notifications for developer tools: CodeCommit, CodeBuild, CodeDeploy, CodePipeline.
 * [aws-pdf-textract-pipeline](https://github.com/aeksco/aws-pdf-textract-pipeline) ⭐ 166 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-05 - ETL pipeline for crawling PDFs from the Web using Puppeteer and transforming their contents into structured data using AWS Textract and storing the results in DynamoDB.
 * [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa) ⚠️ Archived - Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
 
 ### Multi-accounts setup
 
-* [cdk-organizations](https://github.com/pepperize/cdk-organizations) ⭐ 183 | 🐛 26 | 🌐 TypeScript | 📅 2026-02-19 - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
+* [cdk-organizations](https://github.com/pepperize/cdk-organizations) ⭐ 183 | 🐛 28 | 🌐 TypeScript | 📅 2026-02-19 - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
 * [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) ⚠️ Archived - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
 
 ## High-Level Frameworks
 
-* [SST](https://github.com/serverless-stack/serverless-stack) ⭐ 26,344 | 🐛 341 | 🌐 TypeScript | 📅 2026-10-08 - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
+* [SST](https://github.com/serverless-stack/serverless-stack) ⭐ 26,343 | 🐛 343 | 🌐 TypeScript | 📅 2026-10-08 - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
 * [punchcard](https://github.com/punchcard/punchcard) ⭐ 515 | 🐛 41 | 🌐 TypeScript | 📅 2021-12-09 - TypeScript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one Node.js application.
 * [Datajob](https://github.com/vincentclaes/datajob) ⭐ 111 | 🐛 19 | 🌐 Python | 📅 2023-02-08 - Build and deploy a serverless data pipeline or machine learning pipeline on AWS with no effort.
 * [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) ⭐ 95 | 🐛 10 | 🌐 TypeScript | 📅 2023-01-07 - A toolkit to develop purely functional and high-order cloud components with AWS CDK.
@@ -115,14 +115,14 @@ This section includes code libraries in various programming languages which vend
 
 ## Language Support
 
-* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 4 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,071 | 🐛 625 | 🌐 Go | 📅 2026-08-09.
+* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) ⭐ 69 | 🐛 4 | 🌐 TypeScript | 📅 2021-07-19 - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild) ⭐ 40,064 | 🐛 629 | 🌐 Go | 📅 2026-08-09.
 * [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) ⚠️ Archived - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
 * [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) ⭐ 14 | 🐛 13 | 🌐 Java | 📅 2023-01-27 - A plugin to define and deploy your AWS CDK applications using Java and Maven.
 * [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) ⚠️ Archived - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
 
 ## Library Publishing
 
-* [jsii-publish](https://github.com/udondan/jsii-publish) ⚠️ Archived - A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii) ⭐ 2,869 | 🐛 160 | 🌐 TypeScript | 📅 2026-10-08.
+* [jsii-publish](https://github.com/udondan/jsii-publish) ⚠️ Archived - A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii) ⭐ 2,869 | 🐛 164 | 🌐 TypeScript | 📅 2026-10-09.
 * [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) - GitHub Action for AWS CDK.
 
 ## Tools
@@ -131,7 +131,7 @@ This section includes code libraries in various programming languages which vend
 
 ## Training Materials and Sample Code
 
-* [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples) ⭐ 5,641 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-04 - A set of example projects for the AWS CDK.
+* [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples) ⭐ 5,643 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-04 - A set of example projects for the AWS CDK.
 * [CDK Patterns](https://github.com/cdk-patterns/serverless) ⭐ 2,348 | 🐛 116 | 🌐 TypeScript | 📅 2024-01-30 - An opensource collection of serverless architecture patterns built with CDK.
 * [Open CDK Guide](https://github.com/kevinslin/open-cdk) ⭐ 866 | 🐛 2 | 📅 2021-07-04 - Open source guide on CDK and best practices.
 * [GitHub Changelog Crawler](https://github.com/aws-samples/aws-cdk-changelogs-demo) ⚠️ Archived - A fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
@@ -140,7 +140,7 @@ This section includes code libraries in various programming languages which vend
 * [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) ⭐ 75 | 🐛 1 | 🌐 JavaScript | 📅 2020-10-08 - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application.
 * [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo) ⭐ 42 | 🐛 9 | 🌐 TypeScript | 📅 2022-12-09 - Demo of deploying ECS application using CDK.
 * [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) ⭐ 41 | 🐛 6 | 🌐 TypeScript | 📅 2020-06-07 project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application.
-* [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) ⭐ 38 | 🐛 7 | 🌐 TypeScript | 📅 2023-03-06 - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) ⭐ 2,958 | 🐛 237 | 🌐 TypeScript | 📅 2026-10-08 and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
+* [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) ⭐ 38 | 🐛 7 | 🌐 TypeScript | 📅 2023-03-06 - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) ⭐ 2,958 | 🐛 235 | 🌐 TypeScript | 📅 2026-10-09 and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
 * [dilbert-feed](https://github.com/mlafeldt/dilbert-feed) ⚠️ Archived - A serverless application written in Go that allows you to enjoy Dilbert in your RSS feed reader without any ads.
 * [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in) ⚠️ Archived - Source code that powers REST APIs at <https://api.l3x.in/>.
 * [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example) ⚠️ Archived - Deploy a functional public API that receives an HTML form (e.g. /contact\_us.html) POST request and delivers its data to Pushover notification service.
@@ -193,8 +193,8 @@ This section includes code libraries in various programming languages which vend
 ## Related Projects
 
 * [cdktf](https://github.com/hashicorp/terraform-cdk) ⚠️ Archived - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
-* [cdk8s](https://github.com/awslabs/cdk8s/) ⭐ 4,858 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-08 - Define Kubernetes native apps and abstractions using object-oriented programming.
-* [jsii](https://github.com/awslabs/jsii) ⭐ 2,869 | 🐛 160 | 🌐 TypeScript | 📅 2026-10-08 - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
+* [cdk8s](https://github.com/awslabs/cdk8s/) ⭐ 4,858 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-09 - Define Kubernetes native apps and abstractions using object-oriented programming.
+* [jsii](https://github.com/awslabs/jsii) ⭐ 2,869 | 🐛 164 | 🌐 TypeScript | 📅 2026-10-09 - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
 * [cdktg](https://github.com/hupe1980/cdk-threagile) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2022-06-30 - Agile Threat Modeling as Code.
 
 ## Tips & Tricks
@@ -208,4 +208,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
