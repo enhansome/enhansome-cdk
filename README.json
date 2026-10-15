@@ -1107,7 +1107,7 @@
             "open_issues": 347,
             "owner": "anomalyco",
             "repo": "sst",
-            "stars": 26354,
+            "stars": 26355,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
@@ -1535,7 +1535,7 @@
             "open_issues": 4,
             "owner": "aws-samples",
             "repo": "aws-cdk-examples",
-            "stars": 5648,
+            "stars": 5649,
             "topics": [
               "cdk",
               "cdk-examples"
@@ -2018,7 +2018,7 @@
             "id": 105809298,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T09:39:08Z",
+            "last_commit": "2026-10-15T15:46:08Z",
             "open_issues": 73,
             "owner": "cdk8s-team",
             "repo": "cdk8s",
@@ -2039,7 +2039,7 @@
             "id": 105802846,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T20:24:01Z",
+            "last_commit": "2026-10-15T14:22:49Z",
             "open_issues": 157,
             "owner": "aws",
             "repo": "jsii",
@@ -2090,7 +2090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:57:49.260Z",
+    "last_updated": "2026-10-15T21:50:49.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things related to the AWS Cloud Development Kit (CDK)",
