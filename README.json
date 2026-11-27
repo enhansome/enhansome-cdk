@@ -328,7 +328,7 @@
                 "id": 268601916,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T21:10:52Z",
+                "last_commit": "2026-11-26T05:54:30Z",
                 "open_issues": 4,
                 "owner": "udondan",
                 "repo": "iam-floyd",
@@ -1047,8 +1047,8 @@
                 "id": 446507878,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-02-19T02:17:01Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-26T16:10:50Z",
+                "open_issues": 15,
                 "owner": "pepperize",
                 "repo": "cdk-organizations",
                 "stars": 183,
@@ -1110,10 +1110,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-14T03:48:20Z",
-            "open_issues": 370,
+            "open_issues": 371,
             "owner": "anomalyco",
             "repo": "sst",
-            "stars": 26467,
+            "stars": 26466,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:39.993Z"
@@ -2024,7 +2024,7 @@
             "id": 105809298,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T15:09:30Z",
+            "last_commit": "2026-11-26T15:09:17Z",
             "open_issues": 70,
             "owner": "cdk8s-team",
             "repo": "cdk8s",
@@ -2046,10 +2046,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T16:38:49Z",
-            "open_issues": 149,
+            "open_issues": 152,
             "owner": "aws",
             "repo": "jsii",
-            "stars": 2868,
+            "stars": 2869,
             "topics": [
               "aws",
               "cross-language",
@@ -2096,7 +2096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:58:00.701Z",
+    "last_updated": "2026-11-27T01:57:49.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things related to the AWS Cloud Development Kit (CDK)",
